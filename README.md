@@ -13,7 +13,7 @@ Consumption of REST services
 - Infinite Horizontal Scroll
 - SearchDelegate
 
-![Home Screen](https://github.com/[josejo911]/Movie-App/blob/main/Screenshot_1626725198.png?raw=true)
+![Home Screen](https://github.com/josejo911/Movie-App/blob/main/Screenshot_1626725198.png)
 
 ![Navigation](https://github.com/[josejo911]/Movie-App/blob/main/Screenshot_1626725211.png?raw=true)
 
