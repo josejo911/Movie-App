@@ -1,16 +1,23 @@
-# movies_app
+# Flutter - Movies App 
 
-A new Flutter project.
+This is a flutter app where you can search movies and watch an overview and the actors that participates.
 
-## Getting Started
+In this project my goal was to implements:
+Consumption of REST services
 
-This project is a starting point for a Flutter application.
+- JSON Conversion -> Maps -> Models
+- PageViews
+- ApiKeys
+- Providers
+- Streams
+- Infinite Horizontal Scroll
+- SearchDelegate
 
-A few resources to get you started if this is your first Flutter project:
+![Home Screen](https://github.com/[josejo911]/Movie-App/blob/main/Screenshot_1626725198.png?raw=true)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Navigation](https://github.com/[josejo911]/Movie-App/blob/main/Screenshot_1626725211.png?raw=true)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Overview](https://github.com/[josejo911]/Movie-App/blob/main/Screenshot_1626725222.png?raw=true)
+
+![Searching Movies](https://github.com/[josejo911]/Movie-App/blob/main/Screenshot_1626725237.png?raw=true)
+
