@@ -15,9 +15,9 @@ Consumption of REST services
 
 ![Home Screen](https://github.com/josejo911/Movie-App/blob/main/Screenshot_1626725198.png)
 
-![Navigation](https://github.com/[josejo911]/Movie-App/blob/main/Screenshot_1626725211.png?raw=true)
+![Navigation](https://github.com/josejo911/Movie-App/blob/main/Screenshot_1626725211.png)
 
-![Overview](https://github.com/[josejo911]/Movie-App/blob/main/Screenshot_1626725222.png?raw=true)
+![Overview](https://github.com/josejo911/Movie-App/blob/main/Screenshot_1626725222.png)
 
-![Searching Movies](https://github.com/[josejo911]/Movie-App/blob/main/Screenshot_1626725237.png?raw=true)
+![Searching Movies](https://github.com/josejo911/Movie-App/blob/main/Screenshot_1626725237.png)
 
